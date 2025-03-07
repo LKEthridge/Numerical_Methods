@@ -3,4 +3,4 @@ This project developed a predictive model to estimate the market value of used v
 ## Skills Highlighted
 
 ## Installation & Usage
-* This project uses pandas, pyplot, numpy, seaborn, time, lightgbm, catboost, and several sklearn libraries.  It requires python 3.11.
+* This project uses pandas, pyplot, numpy, seaborn, time, lightgbm, catboost, and several sklearn libraries.  It requires python 3.11.  There data file for this project I was unable to upload due to upload limitations.
